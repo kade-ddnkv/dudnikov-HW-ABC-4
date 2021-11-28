@@ -1,0 +1,5 @@
+Filled container:
+TYPE   MAX_DISTANCE    FUEL_CAP      FUEL_CONS     ADDITIONAL_INFO          
+truck  45.05           1             2.22          load_cap       3         
+bus    60.06           2             3.33          passenger_cap  4         
+car    67.57           3             4.44          max_speed      5         

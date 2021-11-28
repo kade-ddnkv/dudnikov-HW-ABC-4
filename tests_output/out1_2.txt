@@ -1,0 +1,3 @@
+Sorted container:
+TYPE   MAX_DISTANCE    FUEL_CAP      FUEL_CONS     ADDITIONAL_INFO          
+truck  272.60          123           45.12         load_cap       6789      
